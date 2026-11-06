@@ -8,8 +8,9 @@ Apuntes, vocabulario técnico y actividades del módulo de Inglés Profesional d
 
 Una carpeta por sesión, con el mismo número que en el aula virtual y los documentos de clase en minúsculas con guiones.
 
-* **`session-1-…/`**: Session 1.
-* **`session-2-…/`**: Session 2.
+* **`recursos/`**: Material de consulta para todo el curso (English Grammar in Use).
+* **`session-1-present-simple-vs-present-continuous/`**: Reading de prensa, gramática del present simple y continuous y reading práctico B2.
+* **`session-2-cv-cover-letter-and-job-interviews/`**: CV, carta de presentación, Europass y LinkedIn, y gramática para entrevistas de IT.
 
 ---
 
